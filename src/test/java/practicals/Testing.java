@@ -6,6 +6,7 @@ public class Testing {
 	{
 	 System.out.println("Code by Manager");
 	 //SDET A must code first
+	 System.out.println("1st employee code");
 	 //SDET B must code second
 
 	}
